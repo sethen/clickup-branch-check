@@ -1,0 +1,24 @@
+{
+  "name": "clickup-branch-check",
+  "version": "1.0.0",
+  "description": "Checks up ClickUp branch for proper name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethen/clickup-branch-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethen/clickup-branch-check/issues"
+  },
+  "homepage": "https://github.com/sethen/clickup-branch-check#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}

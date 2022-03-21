@@ -1,0 +1,5 @@
+name: 'ClickUp Branch Check'
+description: 'Check the branch name to make sure it matches ClickUp'
+runs:
+  using: 'node16'
+  main: 'index.js'
