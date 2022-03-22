@@ -16,7 +16,7 @@ try {
 		}
 	}
 	else {
-		core.setFailed('Could not find head for pull request');
+		core.info("No pull request reference found -- skipping check")
 	}
 } catch (error) {
 	core.setFailed(error.message);

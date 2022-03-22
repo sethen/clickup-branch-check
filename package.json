@@ -1,6 +1,6 @@
 {
   "name": "clickup-branch-check",
-  "version": "1.0.0",
+  "version": "1.3",
   "description": "Checks up ClickUp branch for proper name",
   "main": "index.js",
   "scripts": {
